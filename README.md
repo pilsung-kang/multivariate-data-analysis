@@ -33,6 +33,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 ## Week 6: Logistic Regression
 * Logistic regression
 * Statistical properties of regression coefficients
+* Evaluating classification performance
 * R exercise
 
 ## Week 7: k-Nearest Neighbor Learning
