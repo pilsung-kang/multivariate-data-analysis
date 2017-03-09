@@ -1,6 +1,9 @@
 # multivariate-data-analysis
 Multivariate data analysis @Korea University (Undergraduate)
 
+## Notice
+* Students are required to complete only one R open course (Introduction to R by Data Camp) 
+
 ## Week 1: Introduction to R (Part 1)
 * R Overview
 * Handling different data types
