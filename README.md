@@ -2,6 +2,8 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice
+* 2017.04.18: Assignment 2 is announced (due: 2017-05-09 24:00)
+* 2017.04.18: Assignment 1 is announced (due: 2017-05-02 24:00)
 * 2017.03.28: No class
 * 2017.03.21: Classroom changed: New Engineering Hall 224 (from 2017. 03. 23)
 * 2017.03.09: Students are required to complete only one R open course (Introduction to R by Data Camp) 
