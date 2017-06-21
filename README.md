@@ -11,6 +11,8 @@ Multivariate data analysis @Korea University (Undergraduate)
 * 2017.06.01: Assignment 6 is announced (due: 2017-06-20 24:00)
 * 2017.06.01: Assignment 5 is announced (due: 2017-06-20 24:00)
 * 2017.05.12: Assignment 4 is announced (due: 2017-05-30 24:00)
+  * Evaluation for Assignment 3 is completed
+  * https://www.dropbox.com/s/vx3rxc53gzoatq3/2017_Assignment%204_Score.xlsx?dl=0
 * 2017.05.02: Assignment 3 is announced (due: 2017-05-16 24:00)
   * Evaluation for Assignment 3 is completed
   * https://www.dropbox.com/s/skisivajxect9a8/2017_Assignment%203_Score.xlsx?dl=0
