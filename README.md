@@ -8,7 +8,7 @@ Multivariate data analysis @Korea University (Undergraduate)
     * 신공학관 218호: 김현덕, 주경돈, 이종원, 조민혁, 이현우, 박주환, 이재상, 진한별, 오현수, 윤성호, 장재훈, 김재홍, 강준우, 진태양, 이성길, 오수식
     * 신공학관 224호: 문승일, 이강욱, 노우진, 성정환, 유정민, 안민하, 이정훈, 이현채, 최현석, 이준호, 박현지, 이현기, 이윤서, 박광노, 이해수, 박연수, 김재현
   * 1 page of cheating sheet is allowed.
-  * Evaluation for the Final Exam is completed (Office Hour: 6/26 (Mon) 13:00 ~ 18:00, 신공학관 212/213호 박재선/박민식 조교)
+  * Evaluation for the Final Exam is completed (Office Hour: 6/26 (Mon) 13:00 ~ 18:00, 신공학관 212/213호 박재선/박민식 조교)
   * https://www.dropbox.com/s/79k3nse3b74t3bz/2017_Final%20Exam_Score.xlsx?dl=0
 * 2017.06.01: Assignment 6 is announced (due: 2017-06-20 24:00)
   * Evaluation for Assignment 6 is completed
