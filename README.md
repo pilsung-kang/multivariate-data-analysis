@@ -11,9 +11,11 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Evaluation for the Final Exam is completed (Office Hour: 6/26 (Mon) 13:00 ~ 18:00, 신공학관 212/213호 박재선/박민식 조교)
   * https://www.dropbox.com/s/79k3nse3b74t3bz/2017_Final%20Exam_Score.xlsx?dl=0
 * 2017.06.01: Assignment 6 is announced (due: 2017-06-20 24:00)
+  * Evaluation for Assignment 6 is completed
+  * https://www.dropbox.com/s/78eldv9ps0jt3e6/2017_Assignment%206_Score.xlsx?dl=0
 * 2017.06.01: Assignment 5 is announced (due: 2017-06-20 24:00)
 * 2017.05.12: Assignment 4 is announced (due: 2017-05-30 24:00)
-  * Evaluation for Assignment 3 is completed
+  * Evaluation for Assignment 4 is completed
   * https://www.dropbox.com/s/vx3rxc53gzoatq3/2017_Assignment%204_Score.xlsx?dl=0
 * 2017.05.02: Assignment 3 is announced (due: 2017-05-16 24:00)
   * Evaluation for Assignment 3 is completed
