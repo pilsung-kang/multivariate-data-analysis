@@ -2,6 +2,8 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice
+* 2017.06.27: Total Scores (Final exam, data camp assignment, 6 R exercises, attendance) are announced
+  * https://www.dropbox.com/s/o784c1di4vgitul/2017_Multivariate%20Data%20Analysis_Total%20Scores.pdf?dl=0
 * 2017.06.01: Notice on the final exam
   * Time: 2017-06-15 (Thu.) 10:30~12:00
   * Place
@@ -14,6 +16,8 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Evaluation for Assignment 6 is completed
   * https://www.dropbox.com/s/78eldv9ps0jt3e6/2017_Assignment%206_Score.xlsx?dl=0
 * 2017.06.01: Assignment 5 is announced (due: 2017-06-20 24:00)
+  * Evaluation for Assignment 5 is completed
+  * https://www.dropbox.com/s/h82czx05siwcviy/2017_Assignment%205_Score.xlsx?dl=0
 * 2017.05.12: Assignment 4 is announced (due: 2017-05-30 24:00)
   * Evaluation for Assignment 4 is completed
   * https://www.dropbox.com/s/vx3rxc53gzoatq3/2017_Assignment%204_Score.xlsx?dl=0
