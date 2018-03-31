@@ -5,6 +5,9 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Assignment 1: Association Rules ([download](https://www.dropbox.com/s/f3lx5a829e3lvpj/Assignment%201.zip?dl=0))
   * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due date: 2018-04-17 (Tue) 24:00
+* Assignment 2: Clustering ([download](https://www.dropbox.com/s/3mwzsfc8lw4qr2x/MDA_Assignment_02.docx?dl=0))
+  * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due date: 2018-04-19 (Thu) 24:00
 
 ## Module 1: Orientation
 * Introduction to data science
