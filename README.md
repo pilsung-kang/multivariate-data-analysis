@@ -11,6 +11,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due date: 2018-04-19 (Thu) 24:00
   * The title of e-mail: MDA_A2_your student id_your name (ex: MDA_A2_111111_강필성)
+* **Assignment 3: MLR & Logstic Regression** ([download](https://www.dropbox.com/s/3mwzsfc8lw4qr2x/MDA_Assignment_02.docx?dl=0))
 
 
 ## Module 1: Orientation
