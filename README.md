@@ -18,6 +18,10 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due date: 2018-05-24 (Thu) 24:00
   * The title of e-mail: MDA_A3_your student id_your name (ex: MDA_A3_111111_강필성)
+* **Assignment 4: Dimensionality Reduction** ([download](https://www.dropbox.com/s/3m0xpug0xylyaat/Assignment%204.zip?dl=0))
+  * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due date: 2018-06-07 (Thu) 24:00
+  * The title of e-mail: MDA_A4_your student id_your name (ex: MDA_A4_111111_강필성)
 
 ## Module 1: Orientation
 * Introduction to data science
