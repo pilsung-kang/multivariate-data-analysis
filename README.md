@@ -16,8 +16,17 @@ Multivariate data analysis @Korea University (Undergraduate)
   * TA: Czangyeob Kim, czangyeob at korea.ac.kr, New Engineering Hall 220
 * **Assignment 3: MLR & Logstic Regression** ([download](https://www.dropbox.com/s/vj958d0hyl6y9w8/MDA_Assignment%203.pdf?dl=0))
   * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
-  * Due date: 2018-05-17 (Thu) 24:00
+  * Due date: 2018-05-24 (Thu) 24:00
   * The title of e-mail: MDA_A3_your student id_your name (ex: MDA_A3_111111_강필성)
+  * Score for the assignment 3([download](https://www.dropbox.com/s/7y2tn285pfoqu20/2018_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C%203_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0))
+* **Assignment 4: Dimensionality Reduction** ([download](https://www.dropbox.com/s/3m0xpug0xylyaat/Assignment%204.zip?dl=0))
+  * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due date: 2018-06-07 (Thu) 24:00
+  * The title of e-mail: MDA_A4_your student id_your name (ex: MDA_A4_111111_강필성)
+* **Assignment 5: Decision Tree** ([download](https://www.dropbox.com/s/xscyzu33s73b2wf/Assignment%205.zip?dl=0))
+  * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due date: 2018-06-19 (Tue) 24:00
+  * The title of e-mail: MDA_A4_your student id_your name (ex: MDA_A5_111111_강필성)
 
 ## Module 1: Orientation
 * Introduction to data science
