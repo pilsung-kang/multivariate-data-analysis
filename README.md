@@ -26,7 +26,11 @@ Multivariate data analysis @Korea University (Undergraduate)
 * **Assignment 5: Decision Tree** ([download](https://www.dropbox.com/s/xscyzu33s73b2wf/Assignment%205.zip?dl=0))
   * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due date: 2018-06-19 (Tue) 24:00
-  * The title of e-mail: MDA_A4_your student id_your name (ex: MDA_A5_111111_강필성)
+  * The title of e-mail: MDA_A5_your student id_your name (ex: MDA_A5_111111_강필성)
+* **Assignment 6: Artificial Neural Network** ([download](https://www.dropbox.com/s/eo0rtcuchbdya2d/MDA_Assignment%206.pdf?dl=0))
+  * Analysis report (doc/hwp/pdf) and R source code must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due date: 2018-06-26 (Tue) 24:00
+  * The title of e-mail: MDA_A6_your student id_your name (ex: MDA_A6_111111_강필성)
 
 ## Module 1: Orientation
 * Introduction to data science
