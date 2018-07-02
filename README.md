@@ -2,6 +2,9 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
+* **Fial Score**
+  * Final Score ([link](https://www.dropbox.com/s/p1qa9v63nv5bddb/2018_MDA_Final_Grade.xlsx?dl=0))
+
 * **Final Exam**
   * Date & Time: 2018-06-19(Tue) 14:00~15:30
   * Place: Engineering Hall (공학관) 250
