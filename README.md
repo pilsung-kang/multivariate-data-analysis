@@ -3,6 +3,10 @@ Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
 * Syllabus ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf))
+* Assignment 1
+  * [Instruction](https://www.dropbox.com/s/4y9sysr9bb9th6r/Assignment%201.pdf?dl=0), [Dataset](https://www.dropbox.com/s/hsnzpwwm7kbqd69/big_student_clear_third_version.zip?dl=0)
+  * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
+  * Due: 2019. 04. 09 11:59
 
 ## Module 1: Orientation
 * Introduction to data science
