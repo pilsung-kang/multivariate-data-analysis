@@ -62,7 +62,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Pruning
 
 ## Module 8: Artificial neural network 
-* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Artificial%20Neural%20Network/08_Artificial%20Neural%20Networks.pdf), [Lecture Slide](https://www.dropbox.com/s/sou3e2m7s0jkwib/08%20Artificial%20Neural%20Network.zip?dl=0)
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Artificial%20Neural%20Network/08_Artificial%20Neural%20Networks.pdf), [R Exercise](https://www.dropbox.com/s/sou3e2m7s0jkwib/08%20Artificial%20Neural%20Network.zip?dl=0)
 * Perceptron
 * Error backpropagation: Gradient descent method
 * Multi-layer perceptron
