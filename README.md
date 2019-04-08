@@ -16,7 +16,6 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: To be announced
 
-
 ## Module 1: Orientation
 * Introduction to data science
 * Data science applications
