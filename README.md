@@ -19,17 +19,20 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
 
 ## Module 1: Orientation
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
 * Introduction to data science
 * Data science applications
 * Multivariate data analysis in data science
 * Data science procedure
 
 ## Module 2: Association rule mining
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/02%20Association%20Rule%20Mining/02_Association%20Rule%20Mining.pdf), [R Exercise](https://www.dropbox.com/s/pyj60yqf9qfor5j/02%20Association%20Rule%20Mining.zip?dl=0)
 * Association rules
 * A-priori algorithm
 * Sequential rule mining
 
 ## Module 3: Clustering
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Multiple%20Linear%20Regression/04_Multiple%20Linear%20Regression.pdf), [R Exercise](https://www.dropbox.com/s/d2w6osdazkc0sg2/03%20Clustering.zip?dl=0)
 * Introduction to clustering
 * Clustering validity measures
 * K-Means clustering
@@ -37,6 +40,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * DBSCAN
 
 ## Module 4: Multiple linear regression
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Multiple%20Linear%20Regression/04_Multiple%20Linear%20Regression.pdf), [R Exercise](https://www.dropbox.com/s/jtlfzqf0pfih7nh/04%20Multiple%20Linear%20Regression.zip?dl=0)
 * Multiple linear regression
 * Ordinary least square method
 * Performance evaluation of regression models
