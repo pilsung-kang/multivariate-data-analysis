@@ -15,6 +15,8 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/lmeaen1ik6y66tt/Assignment%203.pdf?dl=0), [Dataset](https://www.dropbox.com/s/y7cw2kfi4tg8x6l/kc_house_data.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: To be announced
+* Assignment 4: Logistic Regression
+  * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
 
 ## Module 1: Orientation
 * Introduction to data science
