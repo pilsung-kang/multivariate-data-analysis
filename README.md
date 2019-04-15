@@ -17,9 +17,11 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Due: 2019. 04. 25: 23:59
 * Assignment 4: Logistic Regression
   * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
+  * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: To be announced
 * Assignment 5: Dimensionality Reduction
   * [Instruction](https://www.dropbox.com/s/9l6d3pl0cjd3n07/Assignment%205.pdf?dl=0), [Dataset](https://www.dropbox.com/s/d9anhj6vivbsnrn/Weather_Ankara.csv?dl=0)
+  * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: To be announced
 
 ## Module 1: Orientation
