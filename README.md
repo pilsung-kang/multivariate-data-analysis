@@ -14,9 +14,13 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Assignment 3: Multivariate Linear Regression
   * [Instruction](https://www.dropbox.com/s/lmeaen1ik6y66tt/Assignment%203.pdf?dl=0), [Dataset](https://www.dropbox.com/s/y7cw2kfi4tg8x6l/kc_house_data.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
-  * Due: To be announced
+  * Due: 2019. 04. 25: 23:59
 * Assignment 4: Logistic Regression
   * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
+  * Due: To be announced
+* Assignment 5: Dimensionality Reduction
+  * [Instruction](https://www.dropbox.com/s/9l6d3pl0cjd3n07/Assignment%205.pdf?dl=0), [Dataset](https://www.dropbox.com/s/d9anhj6vivbsnrn/Weather_Ankara.csv?dl=0)
+  * Due: To be announced
 
 ## Module 1: Orientation
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
