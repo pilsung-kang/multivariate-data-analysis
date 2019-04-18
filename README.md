@@ -2,6 +2,11 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
+* **Midterm Exam**
+  * Date and Place: 2019-04-23 14:00~15:30, New Engineering Hall 218/224 ([download](https://www.dropbox.com/s/j1k2qyzy5cmhz3c/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EC%9E%A5%EC%86%8C.xlsx?dl=0))
+  * A non-programmable calculator is allowed, smart phones must be turned off
+  * A hand-written cheating paper (a sheet of A4 paper, back and forth)
+
 * Syllabus ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf))
 * Assignment 1: Associatioin Rules
   * [Instruction](https://www.dropbox.com/s/4y9sysr9bb9th6r/Assignment%201.pdf?dl=0), [Dataset](https://www.dropbox.com/s/hsnzpwwm7kbqd69/big_student_clear_third_version.zip?dl=0)
