@@ -12,6 +12,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/4y9sysr9bb9th6r/Assignment%201.pdf?dl=0), [Dataset](https://www.dropbox.com/s/hsnzpwwm7kbqd69/big_student_clear_third_version.zip?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 04. 09 23:59
+  * [Assignment 1 Score](https://www.dropbox.com/s/lrlh0f23ydv6upy/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C%201.xlsx?dl=0), TA: Gyuwon Cho, gyuwonable at korea.ac.kr
 * Assignment 2: Clustering
   * [Instruction](https://www.dropbox.com/s/7yer87ez1jdqww6/Assignment%202.pdf?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
