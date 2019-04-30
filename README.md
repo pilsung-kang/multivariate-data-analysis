@@ -13,10 +13,13 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 04. 09 23:59
   * [Assignment 1 Score](https://www.dropbox.com/s/lrlh0f23ydv6upy/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C%201.xlsx?dl=0), TA: Gyuwon Cho, gyuwonable at korea.ac.kr
+  * [Best example 1](https://www.dropbox.com/s/w9unpv811agt158/Assignment1_%EA%B9%80%EC%A7%80%EB%82%98.pdf?dl=0), [Best example 2](https://www.dropbox.com/s/9c3yg0ro23c06nf/Assignment1_%EC%86%A1%EA%B3%A0%EC%9D%80.pdf?dl=0)
 * Assignment 2: Clustering
   * [Instruction](https://www.dropbox.com/s/7yer87ez1jdqww6/Assignment%202.pdf?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 04. 16 23:59
+  * [Assignment 2 Score](https://www.dropbox.com/s/jh9mutvrtfexmd9/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C2_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0), TA: Junhoon Lee, junghoon_lee at korea.ac.kr
+  * [Best example 1](https://www.dropbox.com/s/mm7qkhiv3zmibha/Assignment2_%EC%86%A1%EA%B3%A0%EC%9D%80.pdf?dl=0), [Best example 2](https://www.dropbox.com/s/fvipgvtm4pjszcr/Assignment2_%EA%B9%80%EC%A7%80%EB%82%98.pdf?dl=0) 
 * Assignment 3: Multivariate Linear Regression
   * [Instruction](https://www.dropbox.com/s/lmeaen1ik6y66tt/Assignment%203.pdf?dl=0), [Dataset](https://www.dropbox.com/s/y7cw2kfi4tg8x6l/kc_house_data.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
