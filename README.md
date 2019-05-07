@@ -25,6 +25,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/lmeaen1ik6y66tt/Assignment%203.pdf?dl=0), [Dataset](https://www.dropbox.com/s/y7cw2kfi4tg8x6l/kc_house_data.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 04. 25 23:59
+  * [Assignment 3 Score](https://www.dropbox.com/s/tnqxft19eanmd3f/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C3_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0)
 * **Assignment 4: Logistic Regression**
   * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
