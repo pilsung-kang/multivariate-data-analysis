@@ -30,10 +30,11 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/ybm33sa2v21r5wv/Assignment%204.pdf?dl=0), [Dataset](https://www.dropbox.com/s/zcfy0hao60yl2f0/Admission_Predict.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 05. 16 23: 59
+  * [Assignment 4 Score](https://www.dropbox.com/s/lsufr6reqw1dr4v/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C4_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0), TA: Youngbin Ro, youngbin_ro at korea.ac.kr
 * **Assignment 5: Dimensionality Reduction**
   * [Instruction](https://www.dropbox.com/s/9l6d3pl0cjd3n07/Assignment%205.pdf?dl=0), [Dataset](https://www.dropbox.com/s/d9anhj6vivbsnrn/Weather_Ankara.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
-  * Due: To be announced
+  * Due: 2019. 05. 30
 * **Assignment 6: Decision Tree**
   * [Instruction](https://www.dropbox.com/s/a2mqmhocnfg1mld/Assignment%206.pdf?dl=0), [Dataset](https://www.dropbox.com/s/bh4xyij28rect3y/heart.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
