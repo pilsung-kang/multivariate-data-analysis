@@ -34,11 +34,11 @@ Multivariate data analysis @Korea University (Undergraduate)
 * **Assignment 5: Dimensionality Reduction**
   * [Instruction](https://www.dropbox.com/s/9l6d3pl0cjd3n07/Assignment%205.pdf?dl=0), [Dataset](https://www.dropbox.com/s/d9anhj6vivbsnrn/Weather_Ankara.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
-  * Due: 2019. 05. 30
+  * Due: 2019. 05. 30 23:59
 * **Assignment 6: Decision Tree**
   * [Instruction](https://www.dropbox.com/s/a2mqmhocnfg1mld/Assignment%206.pdf?dl=0), [Dataset](https://www.dropbox.com/s/bh4xyij28rect3y/heart.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
-  * Due: To be announced
+  * Due: 2019. 06. 11 23:59
 
 ## Module 1: Orientation
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
