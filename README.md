@@ -12,6 +12,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * Date and Place: 2019-06-18 14:00~15:30, New Engineering Hall 218/224 ([download](https://www.dropbox.com/s/j1k2qyzy5cmhz3c/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC%20%EC%9E%A5%EC%86%8C.xlsx?dl=0))
   * A non-programmable calculator is allowed, smart phones must be turned off
   * A hand-written cheating paper (a sheet of A4 paper, back and forth) is allowed
+  * [Final exam score](https://www.dropbox.com/s/t65lbvfcvpvlnrk/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC_%EC%B1%84%EC%A0%90%EA%B2%B0%EA%B3%BC.xlsx?dl=0)
 
 ## Assignments 
 * **Assignment 1: Associatioin Rules**
