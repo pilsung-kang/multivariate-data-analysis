@@ -46,6 +46,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * [Instruction](https://www.dropbox.com/s/a2mqmhocnfg1mld/Assignment%206.pdf?dl=0), [Dataset](https://www.dropbox.com/s/bh4xyij28rect3y/heart.csv?dl=0)
   * Analysis report (should be converted to PDF format) and R scripts must be submitted via e-mail (dsba.koreauniv@gmail.com)
   * Due: 2019. 06. 11 23:59
+  * [Assignment 6 Score](https://www.dropbox.com/s/3a8kefio80a9kp2/2019_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EA%B3%BC%EC%A0%9C%EC%B1%84%EC%A0%90_%EA%B3%BC%EC%A0%9C6_%EA%B2%8C%EC%8B%9C%EC%9A%A9.xlsx?dl=0), TA: Gyuwon Cho, gyuwonable at korea.ac.kr
 
 ## Module 1: Orientation
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
