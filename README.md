@@ -2,7 +2,7 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
-* **Syllabus** ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf)) [[](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=2&t=0s)]
+* **Syllabus** ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf)) [[Video ((Kor))](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=2&t=0s)]
 
 ## Assignments 
 ## Module 1: Orientation
