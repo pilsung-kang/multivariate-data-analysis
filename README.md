@@ -7,7 +7,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 ## Assignments 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
-* Introduction to data science
+* Introduction to data science [[Video_Kor](https://www.youtube.com/watch?v=o9uEVxzFeR0)]
 * Data science applications
 * Multivariate data analysis in data science
 * Data science procedure
