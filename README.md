@@ -10,7 +10,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Introduction to data science [[Video_Kor](https://www.youtube.com/watch?v=o9uEVxzFeR0)]
 * Data science applications [[Video_Kor](https://www.youtube.com/watch?v=IFe29PgOza4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=3)]
 * Multivariate data analysis in data science [[Video_Kor](https://www.youtube.com/watch?v=iqLEdf7SlVI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=4)]
-* Data science procedure [[Video_Kor(https://www.youtube.com/watch?v=94RHn0bRNV4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=5)]]
+* Data science procedure [[Video_Kor](https://www.youtube.com/watch?v=94RHn0bRNV4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=5)]
 
 ## Module 2: Multiple linear regression
 * [Lecture Slide]()
