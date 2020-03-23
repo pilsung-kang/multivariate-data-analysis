@@ -16,7 +16,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/02%20Multiple%20Linear%20Regression/02_Multiple%20Linear%20Regression.pdf)
 * Multiple linear regression [[Video_Kor](https://www.youtube.com/watch?v=NknX91JdVA0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=6)]
 * Performance evaluation of regression models [[Video_Kor](https://www.youtube.com/watch?v=s35EfV8lioM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=7)]
-* R Exercise [[Video_Kor](https://www.youtube.com/watch?v=iB9LKe5pgc0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=8)], [[R Script & Datasets](https://www.dropbox.com/s/r3y0m1ao4474i79/R_Exercise_MLR.zip?dl=0)]
+* R Exercise [[Video_Kor](https://www.youtube.com/watch?v=iB9LKe5pgc0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=8)], [[R Script & Datasets](https://github.com/pilsung-kang/multivariate-data-analysis/raw/master/02%20Multiple%20Linear%20Regression/R_Exercise_MLR.zip)]
 
 ## Module 3: Logistic regression
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Logistic%20Regression/05_Logistic%20Regression.pdf), [R Exercise](https://www.dropbox.com/s/ojc0gx1qvpmv2rc/05%20Logistic%20Regression.zip?dl=0)
