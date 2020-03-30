@@ -19,7 +19,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=iB9LKe5pgc0&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=8)], [[R Script & Datasets](https://github.com/pilsung-kang/multivariate-data-analysis/raw/master/02%20Multiple%20Linear%20Regression/R_Exercise_MLR.zip)]
 
 ## Module 3: Logistic regression
-* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Logistic%20Regression/05_Logistic%20Regression.pdf), [R Exercise](https://www.dropbox.com/s/ojc0gx1qvpmv2rc/05%20Logistic%20Regression.zip?dl=0)
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Logistic%20Regression/05_Logistic%20Regression.pdf)
 * Logistic regression: Formulation [[Video_Kor](https://www.youtube.com/watch?v=PsVyx6erzrU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=9)]
 * Logistic Regression: Learning [[Video_Kor](https://www.youtube.com/watch?v=vGMMulhLoYE&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=10)]
 * Logistic Regression: Interpretation [[Video_Kor](https://www.youtube.com/watch?v=3sZx4O2aQs8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=11)]
