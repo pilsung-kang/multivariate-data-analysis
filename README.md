@@ -20,6 +20,15 @@ Multivariate data analysis @Korea University (Undergraduate)
 
 ## Module 3: Logistic regression
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Logistic%20Regression/05_Logistic%20Regression.pdf), [R Exercise](https://www.dropbox.com/s/ojc0gx1qvpmv2rc/05%20Logistic%20Regression.zip?dl=0)
-* Logistic regression
-* Performance evaluation of classification models
+* Logistic regression: Formulation [[Video_Kor](https://www.youtube.com/watch?v=PsVyx6erzrU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=9)]
+* Logistic Regression: Learning [[Video_Kor](https://www.youtube.com/watch?v=vGMMulhLoYE&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=10)]
+* Logistic Regression: Interpretation [[Video_Kor](https://www.youtube.com/watch?v=3sZx4O2aQs8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=11)]
+* Classification Performance Evaluation[[Video_Kor](https://www.youtube.com/watch?v=fhaXt0llHG4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=12)]
+* R Exercise [[Video_Kor](https://www.youtube.com/watch?v=FwReI2IJBJ4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=13)]
+
+## Module 4: Dimensionality Reduction
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04_Dimensionality%20Reduction.pdf), [R Script & Dataset]()
+* Dimensionality Reduction: Overview
+* Variable Selection Methods: Forward/Backward/Stepwise/Genetic Algorithm (GA)
+* Shrinkage Methods
 * R Exercise
