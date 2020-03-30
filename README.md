@@ -27,7 +27,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=FwReI2IJBJ4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=13)]
 
 ## Module 4: Dimensionality Reduction
-* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04_Dimensionality%20Reduction.pdf), [R Script & Dataset]()
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04_Dimensionality%20Reduction.pdf), [R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04%20Dimensionality%20Reduction_R%20Script%20and%20Dataset.zip)
 * Dimensionality Reduction: Overview
 * Variable Selection Methods: Forward/Backward/Stepwise/Genetic Algorithm (GA)
 * Shrinkage Methods
