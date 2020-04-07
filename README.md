@@ -39,7 +39,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05%20Decision%20Tree%20R%20Script%20and%20Dataset.zip)]
 
 ## Module 6: Artificial Neural Network
-* [Lecture Slide]()
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/06_Artificial%20Neural%20Networks.pdf)
 * ANN: Perceptron, Gradient Descent Algorithm
 * MLP: Multi-layer Perceptron
 * R Exercise [[R Script & Dataset]()]
