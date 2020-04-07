@@ -23,7 +23,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Logistic regression: Formulation [[Video_Kor](https://www.youtube.com/watch?v=PsVyx6erzrU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=9)]
 * Logistic Regression: Learning [[Video_Kor](https://www.youtube.com/watch?v=vGMMulhLoYE&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=10)]
 * Logistic Regression: Interpretation [[Video_Kor](https://www.youtube.com/watch?v=3sZx4O2aQs8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=11)]
-* Classification Performance Evaluation[[Video_Kor](https://www.youtube.com/watch?v=fhaXt0llHG4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=12)]
+* Classification Performance Evaluation [[Video_Kor](https://www.youtube.com/watch?v=fhaXt0llHG4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=12)]
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=FwReI2IJBJ4&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=13)] [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/03%20Logistic%20Regression/R%20Exercise_LogReg.zip)]
 
 ## Module 4: Dimensionality Reduction
