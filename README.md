@@ -32,3 +32,14 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Variable Selection Methods: Forward/Backward/Stepwise/Genetic Algorithm (GA) [[Video_Kor](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2)]
 * Shrinkage Methods
 * R Exercise [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04%20Dimensionality%20Reduction_R%20Script%20and%20Dataset.zip)]
+
+## Module 5: Decision Tree
+* [Lecture Slide]()
+* Classification Tree, Recursive Partitioning, Pruning, Regression Tree
+* R Exercise [[R Script & Dataset]()]
+
+## Module 6: Artificial Neural Network
+* [Lecture Slide]()
+* ANN: Perceptron, Gradient Descent Algorithm
+* MLP: Multi-layer Perceptron
+* R Exercise [[R Script & Dataset]()]
