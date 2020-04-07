@@ -34,7 +34,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04%20Dimensionality%20Reduction_R%20Script%20and%20Dataset.zip)]
 
 ## Module 5: Decision Tree
-* [Lecture Slide]()
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf)
 * Classification Tree, Recursive Partitioning, Pruning, Regression Tree
 * R Exercise [[R Script & Dataset]()]
 
