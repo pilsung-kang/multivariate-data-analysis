@@ -5,6 +5,10 @@ Multivariate data analysis @Korea University (Undergraduate)
 * **Syllabus** ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf)) [[Video_Kor](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=2&t=0s)]
 
 ## Assignments 
+* **Assignment 1: Multiple Linear Regression**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A1_MLR.zip)]
+
+
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
 * Introduction to data science [[Video_Kor](https://www.youtube.com/watch?v=o9uEVxzFeR0)]
