@@ -37,6 +37,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree_Theory.pdf)
 * Classification Tree, Recursive Partitioning, Pruning, Regression Tree [[Video_Kor](https://www.youtube.com/watch?v=w6eCV1GzsLs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=18)]
 * R Exercise: Classification [[Video_Kor](https://www.youtube.com/watch?v=1I0h_hbikzU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=19)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree_Theory.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/R%20Exercise_Classification%20Tree.zip)]
+* R Exercise: Regression [[Video_Kor](https://www.youtube.com/watch?v=Im7zHBp_kZg&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=20)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree_R_Exercise_Regression_Tree.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/R%20Exercise_Regression%20Tree.zip)]
 
 ## Module 6: Artificial Neural Network
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/06_Artificial%20Neural%20Networks.pdf)
