@@ -30,13 +30,13 @@ Multivariate data analysis @Korea University (Undergraduate)
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04_Dimensionality%20Reduction.pdf)
 * Dimensionality Reduction: Overview [[Video_Kor](https://www.youtube.com/watch?v=2aTdOGJg7ys&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=14)]
 * Variable Selection Methods: Forward/Backward/Stepwise/Genetic Algorithm (GA) [[Video_Kor](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2)]
-* Shrinkage Methods
+* Shrinkage Methods [[Video_Kor](https://www.youtube.com/watch?v=JSDong54FUM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=16)]
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=RAfHtOjpSUg&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=16)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/04%20Dimensionality%20Reduction/04%20Dimensionality%20Reduction_R%20Script%20and%20Dataset.zip)]
 
 ## Module 5: Decision Tree
-* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree.pdf)
-* Classification Tree, Recursive Partitioning, Pruning, Regression Tree
-* R Exercise [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05%20Decision%20Tree%20R%20Script%20and%20Dataset.zip)]
+* [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree_Theory.pdf)
+* Classification Tree, Recursive Partitioning, Pruning, Regression Tree [[Video_Kor](https://www.youtube.com/watch?v=w6eCV1GzsLs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=18)]
+* R Exercise: Classification [[Video_Kor](https://www.youtube.com/watch?v=1I0h_hbikzU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=19)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/05_Decision%20Tree_Theory.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/05%20Decision%20Tree/R%20Exercise_Classification%20Tree.zip)]
 
 ## Module 6: Artificial Neural Network
 * [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/06_Artificial%20Neural%20Networks.pdf)
