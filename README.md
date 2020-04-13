@@ -14,7 +14,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * **Assignment 2: Logistic Regression**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A2_Logistic%20Regression.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
-  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A1_2012170719_장근호.zip)
+  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A2_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A2_your student id_Name)
   * Due date: 2020-04-28 23:59:00
 
