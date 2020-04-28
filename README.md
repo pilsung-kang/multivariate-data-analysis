@@ -10,13 +10,25 @@ Multivariate data analysis @Korea University (Undergraduate)
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
   * The analysis report and R script must be compressed as a single zip file (file name: A1_your student id_Name, eg: A1_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A1_your student id_Name)
-  * Due date: 2020-04-21 23:59:00
+  * **Due date: 2020-04-21 23:59:00**
 * **Assignment 2: Logistic Regression**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A2_Logistic%20Regression.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
   * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A2_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A2_your student id_Name)
-  * Due date: 2020-04-28 23:59:00
+  * **Due date: 2020-04-28 23:59:00**
+* **Assignment 3: Dimensionality Reduction**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A3_Dimensionality%20Reduction.zip)]
+  * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
+  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A3_2012170719_장근호.zip)
+  * The subject of submission e-mail must be the same format (A3_your student id_Name)
+  * **Due date: 2020-05-07 23:59:00**
+* **Assignment 4: Decision Tree**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A4_Decision%20Tree.zip)]
+  * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
+  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A4_2012170719_장근호.zip)
+  * The subject of submission e-mail must be the same format (A4_your student id_Name)
+  * **Due date: 2020-05-14 23:59:00**
 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
