@@ -73,7 +73,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 ## Module 7: Ensemble Learning
 * Ensemble Learning: Overview [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-1_Ensemble%20Learning_Overview.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=Y8xfvgKc_KM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=24)]
 * Ensemble Learning: Bagging [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-2_Ensemble%20Learning_Bagging.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=giIaZDXu2No&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26&t=0s)]
-* Ensemble Learning: Random Forests [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-3_Ensemble%20Learning_Random%20Forests.pdf)]
+* Ensemble Learning: Random Forests [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-3_Ensemble%20Learning_Random%20Forests.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=wB0ELX15kN8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26)]
 * Ensemble Learning: AdaBoost [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-4_Ensemble%20Learning_AdaBoost.pdf)]
 * Ensemble Learning: Gradient Boosting Machine [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-5_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf)]
 * R Exercise 
