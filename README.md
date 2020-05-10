@@ -18,6 +18,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A2_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A2_your student id_Name)
   * **Due date: 2020-04-28 23:59:00**
+  * [Score](https://www.dropbox.com/s/27vyir0d10jke0t/A2_Score_upload.xlsx?dl=0)
 * **Assignment 3: Dimensionality Reduction**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A3_Dimensionality%20Reduction.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
