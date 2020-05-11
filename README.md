@@ -10,13 +10,27 @@ Multivariate data analysis @Korea University (Undergraduate)
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
   * The analysis report and R script must be compressed as a single zip file (file name: A1_your student id_Name, eg: A1_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A1_your student id_Name)
-  * Due date: 2020-04-21 23:59:00
+  * **Due date: 2020-04-21 23:59:00**
+  * [[Score](https://www.dropbox.com/s/mj7n1vl5z81jyrh/Assignment%201_Score_upload.xlsx?dl=0)], TA: Hyeyeon Kim (kimsy701 at korea.ac.kr)
 * **Assignment 2: Logistic Regression**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A2_Logistic%20Regression.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
   * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A2_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A2_your student id_Name)
-  * Due date: 2020-04-28 23:59:00
+  * **Due date: 2020-04-28 23:59:00**
+  * [[Score](https://www.dropbox.com/s/27vyir0d10jke0t/A2_Score_upload.xlsx?dl=0)], TA: Jounghee Kim (jounghee_kim at korea.ac.kr)
+* **Assignment 3: Dimensionality Reduction**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A3_Dimensionality%20Reduction.zip)]
+  * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
+  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A3_2012170719_장근호.zip)
+  * The subject of submission e-mail must be the same format (A3_your student id_Name)
+  * **Due date: 2020-05-07 23:59:00**
+* **Assignment 4: Decision Tree**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A4_Decision%20Tree.zip)]
+  * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
+  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A4_2012170719_장근호.zip)
+  * The subject of submission e-mail must be the same format (A4_your student id_Name)
+  * **Due date: 2020-05-14 23:59:00**
 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
@@ -59,9 +73,11 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=o8O1ckE5I84&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=23)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/R%20Exercise_ANN.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/06%20Artificial%20Neural%20Network/R_Exercise_ANN.zip)]
 
 ## Module 7: Ensemble Learning
-* Ensemble Learning: Overview [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-1_Ensemble%20Learning_Overview.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=Y8xfvgKc_KM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=24)]
-* Ensemble Learning: Bagging [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-2_Ensemble%20Learning_Bagging.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=giIaZDXu2No&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26&t=0s)]
-* Ensemble Learning: Random Forests [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-3_Ensemble%20Learning_Random%20Forests.pdf)]
-* Ensemble Learning: AdaBoost [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-4_Ensemble%20Learning_AdaBoost.pdf)]
-* Ensemble Learning: Gradient Boosting Machine [[Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-5_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf)]
-* R Exercise 
+* Ensemble Learning: Overview [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-1_Ensemble%20Learning_Overview.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=Y8xfvgKc_KM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=24)]
+* Ensemble Learning: Bagging [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-2_Ensemble%20Learning_Bagging.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=giIaZDXu2No&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26&t=0s)]
+* Ensemble Learning: Random Forests [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-3_Ensemble%20Learning_Random%20Forests.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=wB0ELX15kN8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26)]
+* Ensemble Learning: AdaBoost [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-4_Ensemble%20Learning_AdaBoost.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=Y2rsmO6Nr4I&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=27)]
+* Ensemble Learning: Gradient Boosting Machine [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/07-5_Ensemble%20Learning_Gradient%20Boosting%20Machine.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=1qnZ6JKZTNI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=28)]
+* R Exercise (Classification) [[Video_Kor](https://www.youtube.com/watch?v=mvQz0hURJPA&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=29)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Classification.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Classification.zip)]
+* R Exercise (Regression) [[Video_Kor](https://www.youtube.com/watch?v=QLE61MmGrlo&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=30)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Regression.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Regression.zip)]
+
