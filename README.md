@@ -22,15 +22,21 @@ Multivariate data analysis @Korea University (Undergraduate)
 * **Assignment 3: Dimensionality Reduction**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A3_Dimensionality%20Reduction.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
-  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A3_2012170719_장근호.zip)
+  * The analysis report and R script must be compressed as a single zip file (file name: A3_your student id_Name, eg: A3_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A3_your student id_Name)
   * **Due date: 2020-05-07 23:59:00**
 * **Assignment 4: Decision Tree**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A4_Decision%20Tree.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
-  * The analysis report and R script must be compressed as a single zip file (file name: A2_your student id_Name, eg: A4_2012170719_장근호.zip)
+  * The analysis report and R script must be compressed as a single zip file (file name: A4_your student id_Name, eg: A4_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A4_your student id_Name)
   * **Due date: 2020-05-14 23:59:00**
+* **Assignment 4: Decision Tree**
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A5_Artificial%20Neural%20Network.zip)]
+  * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
+  * The analysis report and R script must be compressed as a single zip file (file name: A5_your student id_Name, eg: A4_2012170719_장근호.zip)
+  * The subject of submission e-mail must be the same format (A4_your student id_Name)
+  * **Due date: 2020-05-21 23:59:00**
 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
