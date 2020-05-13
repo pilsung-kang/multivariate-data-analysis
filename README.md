@@ -87,3 +87,6 @@ Multivariate data analysis @Korea University (Undergraduate)
 * R Exercise (Classification) [[Video_Kor](https://www.youtube.com/watch?v=mvQz0hURJPA&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=29)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Classification.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Classification.zip)]
 * R Exercise (Regression) [[Video_Kor](https://www.youtube.com/watch?v=QLE61MmGrlo&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=30)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Regression.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/07%20Ensemble%20Learning/R%20Exercise_Ensemble%20Regression.zip)]
 
+## Module 8: Association Rule Mining
+* Association Rule Mining: frequent itemsets, A-Priori algorithm, support, confidence, lift [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/tree/master/08%20Association%20Rule%20Mining
+)], [[Video_Kor](https://www.youtube.com/watch?v=Y1ZphMeDjPA&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=31)]
