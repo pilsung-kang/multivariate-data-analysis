@@ -91,3 +91,4 @@ Multivariate data analysis @Korea University (Undergraduate)
 ## Module 8: Association Rule Mining
 * Association Rule Mining: frequent itemsets, A-Priori algorithm, support, confidence, lift [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/tree/master/08%20Association%20Rule%20Mining
 )], [[Video_Kor](https://www.youtube.com/watch?v=Y1ZphMeDjPA&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=31)]
+* R Exercise [[Video_Kor](https://www.youtube.com/watch?v=ul_W7AnYqKk)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Association%20Rule%20Mining/R%20Exercise_ARM.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Association%20Rule%20Mining/R%20Exercise_ARM.zip)]
