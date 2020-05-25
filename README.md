@@ -40,7 +40,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The subject of submission e-mail must be the same format (A5_your student id_Name)
   * **Due date: 2020-05-21 23:59:00**
 * **Assignment 6: Ensemble Learning**
-  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A5_Artificial%20Neural%20Network.zip)]
+  * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A6_Ensemble.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
   * The analysis report and R script must be compressed as a single zip file (file name: A6_your student id_Name, eg: A6_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A6_your student id_Name)
