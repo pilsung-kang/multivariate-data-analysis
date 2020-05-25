@@ -25,7 +25,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A3_your student id_Name, eg: A3_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A3_your student id_Name)
   * **Due date: 2020-05-07 23:59:00**
-  * [[Score](https://www.dropbox.com/s/yw7bgmjrsmp418a/Assignment%203_Score_upload.xlsx?dl=0)], TA: Myeongsup Kim (myeongsup_kim at korea.ac.kr)
+  * [[Score](https://www.dropbox.com/s/9wkmbt3msanwsy0/Assignment%203_Score_upload_2020_0525.xlsx?dl=0)], TA: Myeongsup Kim (myeongsup_kim at korea.ac.kr)
 * **Assignment 4: Decision Tree**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A4_Decision%20Tree.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
