@@ -39,6 +39,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A5_your student id_Name, eg: A5_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A5_your student id_Name)
   * **Due date: 2020-05-21 23:59:00**
+  * [[Score](https://www.dropbox.com/s/qca8udh9xnn99yz/A5_Score_Upload.xlsx?dl=0)], TA: Gyuwon Cho (gyuwonable at korea.ac.kr)
 * **Assignment 6: Ensemble Learning**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A6_Ensemble.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
