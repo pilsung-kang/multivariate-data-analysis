@@ -106,3 +106,9 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Association Rule Mining: frequent itemsets, A-Priori algorithm, support, confidence, lift [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/tree/master/08%20Association%20Rule%20Mining
 )], [[Video_Kor](https://www.youtube.com/watch?v=Y1ZphMeDjPA&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=31)]
 * R Exercise [[Video_Kor](https://www.youtube.com/watch?v=ul_W7AnYqKk)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Association%20Rule%20Mining/R%20Exercise_ARM.pdf)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/08%20Association%20Rule%20Mining/R%20Exercise_ARM.zip)]
+
+## Module 9: Clustering
+* Clustering Overview [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-1_Clustering_Overview.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=k885zMo0jQs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=33)]
+* K-Means Clustering [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-2_K-Means%20Clustering.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=QJB6eClNQVI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=34)]
+* Hierarchical Clustering [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-3_Hierarchical%20Clustering.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=sMMbAgKVwAk&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=35)]
+* Density-based Clustering: DBSCAN [[Lecture_Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-4_DBSCAN.pdf)], [[Video_Kor]()]
