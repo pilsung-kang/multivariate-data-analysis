@@ -46,6 +46,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A6_your student id_Name, eg: A6_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A6_your student id_Name)
   * **Due date: 2020-06-04 23:59:00**
+  * [[Score](https://www.dropbox.com/s/weet1evyawz9pm5/A6_Score_Upload.xlsx?dl=0)], TA: Jonghyun Choi (excelsiorcjh at korea.ac.kr)
 * **Assignment 7: Association Rule Mining**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A7_ARM.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
