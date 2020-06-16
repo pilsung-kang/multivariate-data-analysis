@@ -118,4 +118,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 * Clustering Overview [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-1_Clustering_Overview.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=k885zMo0jQs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=33)]
 * K-Means Clustering [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-2_K-Means%20Clustering.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=QJB6eClNQVI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=34)]
 * Hierarchical Clustering [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-3_Hierarchical%20Clustering.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=sMMbAgKVwAk&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=35)]
-* Density-based Clustering: DBSCAN [[Lecture_Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-4_DBSCAN.pdf)], [[Video_Kor]()]
+* Density-based Clustering: DBSCAN [[Lecture_Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/09-4_DBSCAN.pdf)], [[Video_Kor](https://www.youtube.com/watch?v=O_EigN9iF6E&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=36)]
+* R Exercise [[Video_Kor](https://www.youtube.com/watch?v=mZZr39ywicY&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=37)], [[Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/R%20Exercise_Clustering.zip)], [[R Script & Dataset](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/09%20Clustering/R%20Exercise_Clustering.zip)]
+
+
