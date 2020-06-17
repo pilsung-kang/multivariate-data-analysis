@@ -53,6 +53,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A7_your student id_Name, eg: A7_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A6_your student id_Name)
   * **Due date: 2020-06-11 23:59:00**
+  [[Score](https://www.dropbox.com/s/47jk65gqniy307e/A7_Score_Upload.xlsx?dl=0)], TA: Joongmin Park (joongmin_park at korea.ac.kr)
 * **Assignment 8: Clustering**
   * Instruction & Dataset [[Download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/Assignments/A8_Clustering.zip)]
   * An analysis report (PDF format) with your own R script must be submitted via E-Mail: dsba.koreauniv@gmail.com
