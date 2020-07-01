@@ -60,6 +60,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A8_your student id_Name, eg: A8_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A6_your student id_Name)
   * **Due date: 2020-06-25 23:59:00**
+  * [[Socre](https://www.dropbox.com/s/ham25pp0xxtzbxr/A8_Score_Upload.xlsx?dl=0), TA: Youngbin Ro (youngbin_ro at korea.ac.kr)]
 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
