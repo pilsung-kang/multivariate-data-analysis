@@ -3,6 +3,7 @@ Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
 * **Syllabus** ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2019_1_Multivariate%20Data%20Analysis.pdf)) [[Video_Kor](https://www.youtube.com/watch?v=-7YVkiRjF7w&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=2&t=0s)]
+* **Final Score** ([download](https://www.dropbox.com/s/4wsfzlgrzonazqg/2020_%EB%8B%A4%EB%B3%80%EB%9F%89%EB%B6%84%EC%84%9D_%EC%B5%9C%EC%A2%85%20%EC%84%B1%EC%A0%81_upload.xlsx?dl=0))
 
 ## Assignments 
 * **Assignment 1: Multiple Linear Regression**
@@ -60,7 +61,7 @@ Multivariate data analysis @Korea University (Undergraduate)
   * The analysis report and R script must be compressed as a single zip file (file name: A8_your student id_Name, eg: A8_2012170719_장근호.zip)
   * The subject of submission e-mail must be the same format (A6_your student id_Name)
   * **Due date: 2020-06-25 23:59:00**
-  * [[Socre](https://www.dropbox.com/s/ham25pp0xxtzbxr/A8_Score_Upload.xlsx?dl=0), TA: Youngbin Ro (youngbin_ro at korea.ac.kr)]
+  * [[Socre](https://www.dropbox.com/s/ham25pp0xxtzbxr/A8_Score_Upload.xlsx?dl=0)], TA: Youngbin Ro (youngbin_ro at korea.ac.kr)
 
 ## Module 1: Orientation
 * [Lecture Slide](https://www.dropbox.com/s/wjbwoy2x0x0uo9k/2020_1_Multivariate%20Data%20Analysis.pdf?dl=0)
