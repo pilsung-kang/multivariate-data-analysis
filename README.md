@@ -2,7 +2,7 @@
 Multivariate data analysis @Korea University (Undergraduate)
 
 ## Notice 
-- **Syllabus** ([download]())
+- **Syllabus** ([download](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/2021_1_Multivariate%20Data%20Analysis.pdf))
 
 ## Assignments 
 - To be announced
