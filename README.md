@@ -22,6 +22,10 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
+  - 채점 결과 [[download](https://www.dropbox.com/s/tnhmiwz9578mzhg/Assignment%202%20Score.xlsx?dl=0)]
+    - 채점 결과에 질문이나 이의가 있는 수강생은 아래 채점 조교 두 명을 모두 수신인으로 하여 문의 메일 보내시기 바랍니다. (기한: 2021-05-13 목요일)
+    - 채점 조교: 김정섭 석박통합과정(jeongseob_kim@korea.ac.kr), 허재혁 석사과정(jaehyuk_heo@korea.ac.kr)
+    - 
 - **Assignment 3**
   - Instruction [[download](https://www.dropbox.com/s/qlvrdcjqbfj8xho/Assignment%203_Dimensionality%20Reduction.pdf?dl=0)]
   - Deadline: 2021-05-11 (Tue) 23:59
