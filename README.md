@@ -25,7 +25,6 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 채점 결과 [[download](https://www.dropbox.com/s/tnhmiwz9578mzhg/Assignment%202%20Score.xlsx?dl=0)]
     - 채점 결과에 질문이나 이의가 있는 수강생은 아래 채점 조교 두 명을 모두 수신인으로 하여 문의 메일 보내시기 바랍니다. (기한: 2021-05-13 목요일)
     - 채점 조교: 김정섭 석박통합과정(jeongseob_kim@korea.ac.kr), 허재혁 석사과정(jaehyuk_heo@korea.ac.kr)
-    
 - **Assignment 3**
   - Instruction [[download](https://www.dropbox.com/s/qlvrdcjqbfj8xho/Assignment%203_Dimensionality%20Reduction.pdf?dl=0)]
   - Deadline: 2021-05-11 (Tue) 23:59
@@ -36,7 +35,6 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 채점 결과 [[download](https://www.dropbox.com/s/fegg68lwhjpn75r/Assignment%203%20Score.xlsx?dl=0)]
     - 채점 결과에 질문이나 이의가 있는 수강생은 아래 채점 조교 두 명을 모두 수신인으로 하여 문의 메일 보내시기 바랍니다. (기한: 2021-06-02 화요일)
     - 채점 조교: 김지나 석박통합과정(jina_kim@korea.ac.kr), 윤훈상 석사과정(hoonsang_yoon@korea.ac.kr)
-
 - **Assignment 4**
   - Instruction [[download](https://www.dropbox.com/s/e2m6y1gzff85dce/Assignment%204_Decision%20Tree.pdf?dl=0)]
   - Deadline: 2021-05-20 (Thu) 23:59
@@ -44,7 +42,6 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
-
 - **Assignment 5**
   - Instruction [[download](https://www.dropbox.com/s/fs54giyvc7c7v17/Assignment%205_ANN.pdf?dl=0)]
   - Deadline: 2021-05-27 (Thu) 23:59
@@ -52,7 +49,15 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
-
+- **Assignment 6**
+  - Instruction [[download](https://www.dropbox.com/s/27l2n01xa61dv53/Assignment%206_Ensemble.pdf?dl=0)]
+  - Dataset [[download](https://www.dropbox.com/s/q94v32kn28dnmei/Earthquake_Damage.zip?dl=0)]
+  - Deadline: 2021-06-08 (Tue) 23:59
+  - 제출처: dsba.koreauniv@gmail.com으로 제출 (주의! 담당교수 이메일 아님)
+  - 제출 형식: 보고서
+    - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
+    - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
+    - 
 ## Module 1: Orientation
 - [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
 - Introduction to data science [[Video_Kor](https://www.youtube.com/watch?v=o9uEVxzFeR0)]
