@@ -33,6 +33,9 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
+  - 채점 결과 [[download](https://www.dropbox.com/s/fegg68lwhjpn75r/Assignment%203%20Score.xlsx?dl=0)]
+    - 채점 결과에 질문이나 이의가 있는 수강생은 아래 채점 조교 두 명을 모두 수신인으로 하여 문의 메일 보내시기 바랍니다. (기한: 2021-06-02 화요일)
+    - 채점 조교: 김지나 석박통합과정(jina_kim@korea.ac.kr), 윤훈상 석사과정(hoonsang_yoon@korea.ac.kr)
 
 - **Assignment 4**
   - Instruction [[download](https://www.dropbox.com/s/e2m6y1gzff85dce/Assignment%204_Decision%20Tree.pdf?dl=0)]
