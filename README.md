@@ -60,7 +60,15 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
-    - 
+- **Assignment 7*
+  - Instruction [[download](https://www.dropbox.com/s/kvsf1r75mbpztgv/Assignment%207_Association%20Rule%20Mining.docx?dl=0)]
+  - Dataset [[download](https://www.dropbox.com/s/9fa8i4jy5ml4jy7/big_student_clear_third_version.zip?dl=0)]
+  - Deadline: 2021-06-10 (Thu) 23:59
+  - 제출처: dsba.koreauniv@gmail.com으로 제출 (주의! 담당교수 이메일 아님)
+  - 제출 형식: 보고서
+    - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
+    - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
+  
 ## Module 1: Orientation
 - [Lecture Slide](https://github.com/pilsung-kang/multivariate-data-analysis/blob/master/01%20Introduction/01_Introduction%20to%20Multivariate%20Data%20Analysis_upload.pdf)
 - Introduction to data science [[Video_Kor](https://www.youtube.com/watch?v=o9uEVxzFeR0)]
