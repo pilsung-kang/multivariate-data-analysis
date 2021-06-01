@@ -52,6 +52,9 @@ Multivariate data analysis @Korea University (Undergraduate)
   - 제출 형식: 보고서
     - 1안: R스크립트와 이에 대한 분석 문서를 PDF로 변환하여 제출 (R파일 및 PDF파일)
     - 2안: R Notebook을 이용하여 생성한 html 파일 제출 (html 파일에는 실행한 스크립트와 결과, 그에 대한 해석이 모두 포함되어야 함)
+  - 채점 결과 [[download](https://www.dropbox.com/s/3kohygzcv3zayvl/Assignment%205%20Score.xlsx?dl=0)]
+    - 채점 결과에 질문이나 이의가 있는 수강생은 아래 채점 조교 두 명을 모두 수신인으로 하여 문의 메일 보내시기 바랍니다. (기한: 2021-06-08 화요일)
+    - 정의석 석박통합과정(euisuk_chung@korea.ac.kr), 윤훈상 석사과정(kyoosung_so@korea.ac.kr)
 - **Assignment 6**
   - Instruction [[download](https://www.dropbox.com/s/27l2n01xa61dv53/Assignment%206_Ensemble.pdf?dl=0)]
   - Dataset [[download](https://www.dropbox.com/s/q94v32kn28dnmei/Earthquake_Damage.zip?dl=0)]
